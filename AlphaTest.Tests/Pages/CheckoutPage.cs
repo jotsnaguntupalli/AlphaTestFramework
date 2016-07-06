@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AlphaTestFramework
+namespace AlphaTest.Tests.Pages
 {
-    public class Class1
+   public class CheckoutPage
     {
     }
 }
